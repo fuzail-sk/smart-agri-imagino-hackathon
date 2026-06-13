@@ -2,6 +2,10 @@
 
 A web-based agriculture management platform designed to help farmers make smarter decisions using technology-driven tools.
 
+# 🌱 Smart Agri Farming
+
+🔗 Live Demo: https://your-netlify-link.netlify.app
+
 ## Features
 
 * 🌦️ Real-Time Weather Insights
